@@ -1,2 +1,2 @@
-# love2d-projects
-using the love2d framework with lua
+# particle-system
+using the love2d framework with lua, making particles
